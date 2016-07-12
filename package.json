@@ -1,0 +1,16 @@
+{
+  "name": "jemmaslater",
+  "version": "1.0.0",
+  "description": "Jemma Slater's website",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jemma Slater",
+  "license": "ISC"
+}
